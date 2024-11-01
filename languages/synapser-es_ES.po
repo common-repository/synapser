@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Synapser 1.0\n"
+"POT-Creation-Date: 2014-09-11 16:36+0100\n"
+"PO-Revision-Date: 2014-09-16 11:29+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: Synapser Team <info@synapser.net>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __();_e();__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adminoptions.php:8
+msgid "Synapser Options"
+msgstr "Opciones de Synapser "
+
+#: adminoptions.php:12
+#, php-format
+msgid ""
+"Synapser API Configuration (Please login to %s and go to Domains > your "
+"domain)"
+msgstr ""
+"Configuración del API de Synapser (Por favor autentíquese en %s y vaya a "
+"Dominios > su dominio)"
+
+#: adminoptions.php:14
+msgid "Hash Key:"
+msgstr "Clave de Hash:"
+
+#: adminoptions.php:16
+msgid "Public Domain Key:"
+msgstr "Clave de Dominio Público:"
+
+#: adminoptions.php:18
+msgid "Title mode:"
+msgstr "Modo del Título:"
+
+#: adminoptions.php:21
+msgid "Keep Original"
+msgstr "Mantener Original"
+
+#: adminoptions.php:22
+msgid "Append"
+msgstr "Adicionar"
+
+#: adminoptions.php:23
+msgid "Prepend"
+msgstr "Anteponer"
+
+#: adminoptions.php:24
+msgid "Replace"
+msgstr "Reemplazar"
+
+#: adminoptions.php:27
+msgid "Use cURL:"
+msgstr "Usar cURL:"
+
+#: adminoptions.php:28 adminoptions.php:30
+msgid "Warning:"
+msgstr "Advertencia:"
+
+#: adminoptions.php:28
+msgid "please verify that the PHP CURL module are enabled on the server"
+msgstr ""
+"por favor verifique que el módulo PHP CURL está habilitado en el servidor"
+
+#: adminoptions.php:29
+msgid "Enable Debug:"
+msgstr "Habilitar Depuración:"
+
+#: adminoptions.php:30
+msgid ""
+"please activate only for debug and for problem solving. This option must be "
+"always deactivated on a production environment"
+msgstr ""
+"por favor active solo para depurar y para resolver problemas. Esta opción "
+"tiene que estar siempre desactivada en un entorno de producción"
+
+#: adminoptions.php:31
+msgid "Save Options"
+msgstr "Salvar Opciones"
+
+#: adminoptions.php:36
+msgid "Disabled, please set allow_url_fopen=On on PHP.ini"
+msgstr "Deshabilitado, por favor establezca allow_url_fopen=On en PHP.ini"
+
+#: adminoptions.php:38
+msgid "Enabled, your server can connect to web"
+msgstr "Habilitado, su servidor puede conectarse a la web"
+
+#: adminoptions.php:42
+msgid "Disabled, your site can't connect to ws.synapser.net"
+msgstr "Deshabilitado, su sitio no puede conectarse a ws.synapser.net"
+
+#: adminoptions.php:44
+msgid "Enabled, your site is connected to ws.synapser.net"
+msgstr "Habilitado, su sitio está conectado a ws.synapser.net"
+
+#: adminoptions.php:47
+msgid "Disabled, please enable cURL on PHP.ini or not flag the Use cURL option"
+msgstr ""
+"Deshabilitado, por favor habilite cURL en PHP.ini o no seleccione la opción "
+"de Usar cURL"
+
+#: adminoptions.php:50
+#, php-format
+msgid "Enabled, cURL version: %s"
+msgstr "Habilitado, versión de cURL: %s"
+
+#: adminoptions.php:54
+msgid "Synapser API Diagnostics"
+msgstr "Diagnóstico del API de Synapser"
+
+#: adminoptions.php:55
+msgid "Look if your site can connect to Synapser API Server:"
+msgstr "Ver si su sitio puede conectar al Servidor del API de Synapser"
+
+#: adminoptions.php:59
+msgid "Allow URL fopen:"
+msgstr "Permitir fopen de URL:"
+
+#: adminoptions.php:63
+msgid "Synapser Connection:"
+msgstr "Conexión de Synapser:"
+
+#: adminoptions.php:67
+msgid "cURL:"
+msgstr "cURL:"
+
+#: adminoptions.php:92
+msgid "Overview"
+msgstr "Descripción General:"
+
+#: adminoptions.php:93
+msgid "What's Synapser?"
+msgstr "¿Qué es Synapser?"
+
+#: adminoptions.php:94
+msgid ""
+"Synapser, the most effective Search Engine Dynamic Optmization \"SEDO\" "
+"application on the market to place your web site at the top of the list, "
+"however it may be coded, in all search enigines by harvesting your visitors' "
+"most relevant keywords automatically and weaving them directly, in the right "
+"place, into each and every page in real time, at each visit!"
+msgstr ""
+"Synapser, la aplicación de Optimización Dinámica de Motor de Búsqueda \"ODMB"
+"\" más efectiva en el mercado para posicionar su sitio web en el inicio de "
+"la lista, no importa cómo esté programado, en todos los motores de búsqueda "
+"recopilando automáticamente las palabras claves más relevantes de sus "
+"visitantes y añadiéndolas directamente en el lugar correcto, ¡en cada una de "
+"todas las páginas en tiempo real, en cada visita!"
+
+#: adminoptions.php:95
+msgid ""
+"Synapser analyses the behaviour of the most important search engines and the "
+"Synapser algorithm adapts your site to take most advantage of them."
+msgstr ""
+"Synapser analiza el comportamiento de los motores de búsqueda más "
+"importantes y el algoritmo de Synapser adapta su sitio a obtener la mayor "
+"ventaja de esto."
+
+#: adminoptions.php:96
+msgid ""
+"When a visitor is sent to your web site, Synapser harvests the keywords "
+"which your visitor used to reach that page and then serves them up woven "
+"into that page to all subsequent visitors, (within user manageable title, "
+"meta-tag, description etc.) including web crawler searches, so improving "
+"ranking."
+msgstr ""
+"Cuando un visitante es enviado a su sitio web, Synapser recopila las "
+"palabras claves que su visitante utilizó para alcanzar esa página y entonces "
+"añade esas palabras claves a la página para todos los visitantes "
+"posteriores, (en el título manejable del usuario, el meta-tag, la "
+"descripción, etc.) incluyendo buscadores rastreadores de la web, para "
+"mejorar el posicionamiento."
+
+#: adminoptions.php:97
+#, php-format
+msgid "More informations on %s."
+msgstr "Más informaciones en %s."
+
+#: adminoptions.php:104
+msgid "New to Synapser"
+msgstr "Nuevo en Synapser"
+
+#: adminoptions.php:105 adminoptions.php:116
+msgid "Synapser Setup"
+msgstr "Configuración de Synapser"
+
+#: adminoptions.php:106
+msgid ""
+"You need to enter an Hash key and Public Domain Key to activate the Synapser "
+"SEDO service on your site."
+msgstr ""
+"Usted necesita entrar una clave de Hash y una Clave de Dominio Público para "
+"activar el servicio ODMB de Synapser en su sitio."
+
+#: adminoptions.php:107
+#, php-format
+msgid "Signup for an account on %s to setup the service."
+msgstr "Inscríbase para una cuenta en %s para configurar el servicio."
+
+#: adminoptions.php:114
+msgid "Enter the Keys"
+msgstr "Entre las Claves"
+
+#: adminoptions.php:117
+msgid "If you already have the API keys"
+msgstr "Si usted ya tiene las claves del API"
+
+#: adminoptions.php:119
+msgid "Copy and paste the data into the text fields."
+msgstr "Copie y pegue los datos en los campos de texto."
+
+#: adminoptions.php:120
+msgid "Click the \"Save Options\" button."
+msgstr "Haga clic en el botón \"Salvar Opciones\"."
+
+#: adminoptions.php:127
+msgid "For more information:"
+msgstr "Para más información:"
+
+#: adminoptions.php:128
+msgid "Contact Support"
+msgstr "Contacte al Soporte"
+
+#: adminoptions.php:129
+msgid "Knowledge Base"
+msgstr "Base de Conocimiento"
+
+#: adminoptions.php:130
+msgid "Support Forum"
+msgstr "Foro de Soporte"
